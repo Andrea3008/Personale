@@ -19,3 +19,4 @@ Workflow_NoEx.knar.knwf -> Workflow KNIME progetto Machine Learning (Classificaz
 
 Report_ML.pdf -> Report progetto Machine Learning (Classificazione Reddito Annuale)
 
+DataVisualization.md -> Link Tableau Public progetto Data Visualization (COVID-19)
