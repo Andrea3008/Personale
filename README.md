@@ -20,3 +20,13 @@ Workflow_NoEx.knar.knwf -> Workflow KNIME progetto Machine Learning (Classificaz
 Report_ML.pdf -> Report progetto Machine Learning (Classificazione Reddito Annuale)
 
 DataVisualization.md -> Link Tableau Public progetto Data Visualization (COVID-19)
+
+TC_No_StopWords.ipynb -> Codice progetto Text Mining (Text Classification con rimozione stopwords)
+
+TC_StopWords.ipynb -> Codice progetto Text Mining (Text Classification senza rimozione stopwords)
+
+Text_Summarization.ipynb -> Codice progetto Text Mining (Text Summarization)
+
+Text_Summarization.ipynb -> Codice progetto Text Mining (Text Summarization - Architettura Neural Network)
+
+Text_Mining_Report.pdf -> Report progetto Text Mining
